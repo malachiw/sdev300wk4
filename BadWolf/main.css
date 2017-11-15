@@ -1,0 +1,22 @@
+* {
+	box-sizing: border-box;
+}
+.box {
+	height: 300px;
+}
+.center {
+	text-align: center;
+}
+.center-table {
+	margin: auto
+}
+
+body {
+	font-family: 'Dosis', sans-serif;
+	font-size: 0;
+}
+div {
+	display: inline-block;
+
+}
+

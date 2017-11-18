@@ -1,22 +1,25 @@
 * {
 	box-sizing: border-box;
 }
-.center {
-	text-align: center;
-}
+
 .center-table {
 	margin: auto
 }
-.form {
-	height: 600px;
-	width: 100%;
-}
 body {
 	font-family: 'Dosis', sans-serif;
-	font-size: 0;
 }
-div {
+.logo, .login-form {
+	position: absolute;
 	display: inline-block;
-	font-size: normal;	
+}
+
+.logo{
+	top: 200px;
+	left: 28%;
+}
+
+.login-form{
+	top: 280px;
+	left: 45%;
 }
 

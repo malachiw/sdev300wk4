@@ -6,12 +6,12 @@ this weeks lab. Using PHP and HTML create a web app as described.
 The web page will
  1. The Login form should consist of fields for username, email address and 
 	password. 
- 2. After login, a welcom message should appear providing a simple order form
+ 2. After login, a welcome message should appear providing a simple order form
 	with at least 10 products of your choice. Be sure to include an image
 	of the product and price. 
  3. Users can shop your store for up to 30 minutes before the session will 
 	expire. 
- 4. Once all prodcuts are selected, the user should be able to checkout and pay
+ 4. Once all products are selected, the user should be able to checkout and pay
 	 for their purchases. 
  5. The payment page should display the username, email address and the product
 	and total price of purchases.   
